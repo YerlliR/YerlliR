@@ -13,3 +13,4 @@ Además estoy realizando las practicas en Gestion400 en las que implemento tecno
 Me encanta enfrentar nuevos desafíos y aprender continuamente para mejorar mis habilidades. Busco aportar valor a cada proyecto en el que trabajo, creando soluciones innovadoras y eficientes. 🚀
 
 ¡Conectemos y hablemos sobre tecnología! 😊
+https://sergioricart.com/
