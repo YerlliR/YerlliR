@@ -8,7 +8,7 @@ Actualmente, me encuentro estudiando DAW (desarrollo de aplicaciones web), en el
 
 ✔ 𝗕𝗮𝘀𝗲𝘀 𝗱𝗲 𝗱𝗮𝘁𝗼𝘀 𝘆 𝗴𝗲𝘀𝘁𝗶ó𝗻 𝗱𝗲 𝘀𝗲𝗿𝘃𝗶𝗱𝗼𝗿𝗲𝘀
 
-Además estoy realizando las practicas en Gestion400 en las que implemento tecnologías como 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗝𝗣𝗔, 𝗛𝗶𝗯𝗲𝗿𝗻𝗲𝘁, 𝗢𝗽𝗲𝗻𝗫𝗮𝘃𝗮 ...
+Además estoy trabajando en Gestion400 en las que implemento tecnologías como 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗝𝗣𝗔, 𝗛𝗶𝗯𝗲𝗿𝗻𝗲𝘁, 𝗢𝗽𝗲𝗻𝗫𝗮𝘃𝗮 ...
 
 Me encanta enfrentar nuevos desafíos y aprender continuamente para mejorar mis habilidades. Busco aportar valor a cada proyecto en el que trabajo, creando soluciones innovadoras y eficientes. 🚀
 
