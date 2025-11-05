@@ -41,8 +41,8 @@ Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YerlliR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerlliR&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioricart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioricart&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ## 💼 Experiencia Actual
@@ -63,7 +63,7 @@ Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YerlliR&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sergioricart&color=blue" alt="Profile views"/>
   
 **"La tecnología no es nada. Lo importante es que tengas fe en la gente"** - *Steve Jobs*
 </div>
