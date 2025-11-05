@@ -16,12 +16,14 @@ Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### 🏗️ Frameworks & Tools
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=Fastapi&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
+
 
 ### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -53,7 +55,6 @@ Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías
 ## 🌱 Aprendiendo
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergio-ricart-alabau/)
