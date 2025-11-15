@@ -17,6 +17,8 @@ Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías
 
 ### 🏗️ Frameworks & Tools
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)
@@ -51,10 +53,6 @@ Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías
 - Implementación de **APIs REST** y arquitectura **MVC**
 - Testing con **JUnit** y análisis de código con **SonarQube**
 - Gestión de proyectos con **Git/GitHub** y **Maven**
-
-## 🌱 Aprendiendo
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 
 ## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergio-ricart-alabau/)
