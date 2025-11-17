@@ -2,7 +2,6 @@
 ## 🚀 Sobre mí
 Me especializo en desarrollar soluciones innovadoras y trabajar con tecnologías de vanguardia.
 - 🔭 Actualmente trabajo en **Gestión Cuatrocientos S.L.**
-- 🌱 Estoy aprendiendo **Spring, Spring Boot**
 - 📫 Cómo contactarme: **sergiricartt@gmail.com**
 
 ## 🛠️ Stack Tecnológico
